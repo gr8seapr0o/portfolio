@@ -25,6 +25,3 @@ while ($i <= (count($arr)-1))
 
 var_dump($arr1);
 
-
-
-sww

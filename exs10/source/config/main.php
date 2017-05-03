@@ -25,31 +25,28 @@ $menu = [
         "icon"=>"fa-home",
         "title"=>"Main page - Home",
         "text"=>"Home",
-        "href"=>$baseLink ."phpacd/test/test2/",
-
+        "href"=>$baseLink ."myweb/portfolio/exs10/",
         "class"=>"nav-item",
     ],
     "projects"=>[
         "icon"=>"fa-file-code-o",
         "title"=>"Projects",
         "text"=>"Projects",
-        "href"=>$baseLink."phpacd/test/test2/projects/",
-
+        "href"=>$baseLink."myweb/portfolio/exs10/projects/",
         "class"=>"nav-item",
     ],
     "contacts"=>[
         "icon"=>"fa-phone",
         "title"=>"Contacts",
         "text"=>"Contacts",
-        "href"=>$baseLink."phpacd/test/test2/contacts/",
-
+        "href"=>$baseLink."myweb/portfolio/exs10/contacts/",
         "class"=>"nav-item",
     ],
     "faq"=>[
         "icon"=>"fa-question-circle",
         "title"=>"Faq",
         "text"=>"Faq",
-        "href"=>$baseLink."phpacd/test/test2/faq/",
+        "href"=>$baseLink."myweb/portfolio/exs10/faq/",
         "class"=>"nav-item",
     ],
 ];
